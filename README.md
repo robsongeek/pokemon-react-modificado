@@ -5,7 +5,7 @@ ___
 
 ## Captura de tela
 
-![](src/images/pokedex.gif)
+![](src/images/pokedex2.gif)
 ___
 
 ## Funcionalidades
